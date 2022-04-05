@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">NavDrawer</string>
+    <string name="nav_header_desc">Navigation header
+    </string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="content">Content</string>
+    <string name="archive">Archive</string>
+    <string name="my_sports">My Sports</string>
+    <string name="esports">Esports</string>
+    <string name="barsports">Barsports</string>
+
+    <string name="recent">Recent</string>
+    <string name="favorites">Favorites</string>
+    <string name="bin">Bin</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="settings_fragment">Setting Fragment</string>
+    <string name="content_fragment">Content Fragment</string>
+    <string name="archive_fragment">Archive Fragment</string>
+    <string name="recent_fragment">Recent Fragment</string>
+    <string name="favorite_fragment">Favorite Fragment</string>
+    <string name="bin_fragment">Bin Fragment</string>
+    <string name="link_to_content_button">Link to Content Button</string>
+    <string name="my_sports_fragment">My Sports Fragment</string>
+    <string name="esports_fragment">My ESports Fragment</string>
+    <string name="barsports_fragment">My Bar Sports Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
